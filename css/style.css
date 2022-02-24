@@ -102,7 +102,7 @@ button {
 header {
   min-height: 100vh;
   width: 100%;
-  background: url("https://4.downloader.disk.yandex.ru/preview/46bd178d739689fdb7b25433170356fcac793ac13aab68b817d918eab2216e97/inf/z6bF8KjNZ6AkCKMxTHnX6cX59OL5cK_K0yl-EsX9-yWfB6K6hLoFRkJBjIO-E6Eb_G_vtflU8zCRmPo-kkdU9g%3D%3D?uid=363960778&filename=2_5233279004336719198.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=363960778&tknv=v2&size=1920x870") no-repeat top center / cover;
+  background: url('./2.jpg') no-repeat top center / cover;
   position: relative;
 }
 
